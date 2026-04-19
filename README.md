@@ -1,8 +1,3 @@
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/hexlet-boilerplate/nodejs-package/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/hexlet-boilerplate/nodejs-package/actions)
-[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/hexlet-boilerplate/nodejs-package/maintainability)
-*Заметка: Замените ссылки выше на ваши бейджи из GitHub Actions и SonarQube после настройки сервисов.*
-
 # Brain Games
 
 «Игры разума» — набор из пяти консольных игр, построенных по принципу популярных мобильных приложений для прокачки мозга. Каждая игра задает вопросы, на которые нужно дать правильный ответ. После трех правильных ответов игра считается пройденной. При неправильном ответе игра завершается.
