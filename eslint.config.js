@@ -6,7 +6,7 @@ export default [
   pluginJs.configs.recommended,
   {
     rules: {
-      semi: ['error', 'never'],
+      'semi': ['error', 'never'],
       'no-console': 'off',
     },
   },
