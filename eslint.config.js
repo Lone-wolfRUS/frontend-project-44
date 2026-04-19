@@ -7,7 +7,7 @@ export default [
   {
     rules: {
       semi: ['error', 'never'],
-      'no-console': 'off'
-    }
-  }
+      'no-console': 'off',
+    },
+  },
 ]
